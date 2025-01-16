@@ -3,9 +3,10 @@
 
 ## Survey
 
+- Few-shot Class-incremental Learning for Classification and Object Detection: A Survey (**IEEE TPMAI 2025**)[[paper](https://ieeexplore.ieee.org/document/10840313)]
 - A survey on few-shot class-incremental learning (**Neural Networks 2024**)[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023006019)]
 
-##Research Papers
+## Research Papers
 
 ### 2023
 
@@ -52,8 +53,3 @@
 
 - Dynamic few-shot visual learning without forgetting(**CVPR18**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Gidaris_Dynamic_Few-Shot_Visual_CVPR_2018_paper.html)]
 
-<div align="center">
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhoudw-zdw.FSCIL-repo&left_color=green&right_color=red)
-
-</div>
