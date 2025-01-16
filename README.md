@@ -8,6 +8,10 @@
 
 ## Research Papers
 
+### 2024
+
+- Few-shot class incremental learning with attention-aware self-adaptive prompt (**ECCV2024**)[[paper](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_1)]
+
 ### 2023
 
 - On the Soft-Subnetwork for Few-Shot Class Incremental Learning (**ICLR23**)[[paper](https://openreview.net/pdf?id=z57WK5lGeHd)]
