@@ -1,8 +1,11 @@
-# Awesome Few-Shot Class-Incremental Learning
+# Awesome Few-shot Class-incremental learning
 
-*Pull requests are welcome if you find any interesting paper is missing.*
 
-## Papers
+## Survey
+
+- A survey on few-shot class-incremental learning (**Neural Networks 2024**)[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023006019)]
+
+##Research Papers
 
 ### 2023
 
