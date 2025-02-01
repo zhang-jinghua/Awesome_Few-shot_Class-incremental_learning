@@ -9,9 +9,12 @@
 ## Research Papers
 
 ### 2024
-
+- Compositional Few-Shot Class-Incremental Learning (**ICML 2024**)[[paper](https://openreview.net/forum?id=t4908PyZxs][[Code](https://github.com/Zoilsen/Comp-FSCIL)]
 - Few-shot class-incremental learning with attention-aware self-adaptive prompt (**ECCV 2024**)[[paper](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_1)]
 - Canonical shape projection is all you need for 3d few-shot class-incremental learning (**ECCV 2024**)[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72940-9_3)]
+- On the Approximation Risk of Few-Shot Class-Incremental Learning (**ECCV 2024**)[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06766.pdf)]
+- CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning (**ECCV 2024**)[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06497.pdf)][[Code](https://github.com/JungHunOh/CLOSER_ECCV2024)]
+- Rethinking Few-shot Class-incremental Learning: Learning from Yourself (**ECCV 2024**)[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07806.pdf)]
 - OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning (**CVPR 2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ahmed_OrCo_Towards_Better_Generalization_via_Orthogonality_and_Contrast_for_Few-Shot_CVPR_2024_paper.html)]
 
 
