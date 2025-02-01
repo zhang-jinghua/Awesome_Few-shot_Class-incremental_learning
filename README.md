@@ -30,11 +30,14 @@
 
 ### 2022
 - Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**IEEE TPAMI 2022**)[[paper](https://arxiv.org/abs/2203.17030)][[Code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
+- Subspace Regularizers for Few-Shot Class Incremental Learning (**ICLR 2022**) [[paper](https://openreview.net/forum?id=boJy41J-tnQ)]
+- Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay (**ECCV 2022**) [[paper](https://arxiv.org/abs/2207.11213?context=cs)]
+- S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850427.pdf)]
+- Few-Shot Class-Incremental Learning from an Open-Set Perspective (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850377.pdf)]
+- Few-Shot Class-Incremental Learning for 3D Point Cloud Objects (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800194.pdf)]
 - Forward Compatible Few-Shot Class-Incremental Learning(**CVPR 2022**) [[paper](https://arxiv.org/abs/2203.06953)] [[Code](https://github.com/zhoudw-zdw/CVPR22-Fact)]
 - MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf)]
 - Constrained Few-shot Class-incremental Learning (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)]
-- Subspace Regularizers for Few-Shot Class Incremental Learning (**ICLR 2022**) [[paper](https://openreview.net/forum?id=boJy41J-tnQ)]
-- Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay (**ECCV 2022**) [[paper](https://arxiv.org/abs/2207.11213?context=cs)]
 
 ### 2021
 - Learning adaptive classifiers synthesis for generalized few-shot learning(**IJCV 2021**) [[paper](https://arxiv.org/pdf/1906.02944)] [[Code](https://github.com/Sha-Lab/aCASTLE)]
