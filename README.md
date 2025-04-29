@@ -8,6 +8,13 @@
 
 ## Research Papers
 
+### 2025
+- Adaptive Decision Boundary for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34020)]
+- Few-Shot Audio-Visual Class-Incremental Learning with Temporal Prompting and Regularization (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33770)]
+- Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33729)]
+
+
+
 ### 2024
 - Compositional Few-Shot Class-Incremental Learning (**ICML 2024**)[[paper](https://openreview.net/forum?id=t4908PyZxs)][[Code](https://github.com/Zoilsen/Comp-FSCIL)]
 - Few-shot class-incremental learning with attention-aware self-adaptive prompt (**ECCV 2024**)[[paper](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_1)]
