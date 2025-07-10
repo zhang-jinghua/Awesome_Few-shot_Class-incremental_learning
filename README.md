@@ -27,6 +27,7 @@
 - CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning (**ECCV 2024**)[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06497.pdf)][[Code](https://github.com/JungHunOh/CLOSER_ECCV2024)]
 - Rethinking Few-shot Class-incremental Learning: Learning from Yourself (**ECCV 2024**)[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07806.pdf)]
 - OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning (**CVPR 2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ahmed_OrCo_Towards_Better_Generalization_via_Orthogonality_and_Contrast_for_Few-Shot_CVPR_2024_paper.html)]
+- DyCR: A Dynamic Clustering and Recovering Network for Few-Shot Class-Incremental Learning (**TNNLS 2024**)[[paper](https://ieeexplore.ieee.org/abstract/document/10531293)][[Code](https://github.com/zichengpan/DyCR)]
 
 
 ### 2023
