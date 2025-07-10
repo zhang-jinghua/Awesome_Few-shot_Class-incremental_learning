@@ -16,6 +16,7 @@
 - Adaptive Decision Boundary for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34020)]
 - Few-Shot Audio-Visual Class-Incremental Learning with Temporal Prompting and Regularization (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33770)]
 - Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33729)]
+- Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning (**IEEE TCSVT 2025**)[[paper](https://arxiv.org/pdf/2403.04140)][[Code](https://github.com/Biqing-Qi/TCSVT-Contrastive-Augmented-Graph2Graph-Memory-Interaction-for-Few-Shot-Continual-Learning)]
 
 
 
@@ -27,7 +28,7 @@
 - CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning (**ECCV 2024**)[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06497.pdf)][[Code](https://github.com/JungHunOh/CLOSER_ECCV2024)]
 - Rethinking Few-shot Class-incremental Learning: Learning from Yourself (**ECCV 2024**)[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07806.pdf)]
 - OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning (**CVPR 2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ahmed_OrCo_Towards_Better_Generalization_via_Orthogonality_and_Contrast_for_Few-Shot_CVPR_2024_paper.html)]
-- DyCR: A Dynamic Clustering and Recovering Network for Few-Shot Class-Incremental Learning (**TNNLS 2024**)[[paper](https://ieeexplore.ieee.org/abstract/document/10531293)][[Code](https://github.com/zichengpan/DyCR)]
+
 
 
 ### 2023
