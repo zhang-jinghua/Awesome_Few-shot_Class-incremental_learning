@@ -26,9 +26,8 @@
 - Federated Few-Shot Class-Incremental Learning (**ICLR 2025**)[[paper](https://openreview.net/pdf?id=ZiPoAlKf9Y)][[Code](
  https://github.com/anwarmaxsum/FFSCIL)]
 - BFCP: Pursue Better Forward Compatibility Pretraining for Few-Shot Class-Incremental Learning (**IEEE TNNLS 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10934146/)]
-=======
 - Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning (**IEEE TCSVT 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10841449)][[Code](https://github.com/Biqing-Qi/TCSVT-Contrastive-Augmented-Graph2Graph-Memory-Interaction-for-Few-Shot-Continual-Learning)]
->>>>>>> 9db7df39723de0a75136acd068c488ae7aa05c95
+
 
 
 
