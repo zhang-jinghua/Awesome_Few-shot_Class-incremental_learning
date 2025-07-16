@@ -16,7 +16,7 @@
 - Adaptive Decision Boundary for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34020)]
 - Few-Shot Audio-Visual Class-Incremental Learning with Temporal Prompting and Regularization (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33770)]
 - Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33729)]
-- Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning (**IEEE TCSVT 2025**)[[paper](https://arxiv.org/pdf/2403.04140)][[Code](https://github.com/Biqing-Qi/TCSVT-Contrastive-Augmented-Graph2Graph-Memory-Interaction-for-Few-Shot-Continual-Learning)]
+- Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning (**IEEE TCSVT 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10841449)][[Code](https://github.com/Biqing-Qi/TCSVT-Contrastive-Augmented-Graph2Graph-Memory-Interaction-for-Few-Shot-Continual-Learning)]
 
 
 
