@@ -10,13 +10,21 @@
 
 ### 2025
 - Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Tripartite_Weight-Space_Ensemble_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html)]
-- SEC-Prompt:SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html)]
+- SEC-Prompt: SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html)]
 - Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Enhancing_Few-Shot_Class-Incremental_Learning_via_Training-Free_Bi-Level_Modality_Calibration_CVPR_2025_paper.html)]
 - Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Attraction_Diminishing_and_Distributing_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html)]
 - Adaptive Decision Boundary for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34020)]
 - Few-Shot Audio-Visual Class-Incremental Learning with Temporal Prompting and Regularization (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33770)]
 - Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33729)]
 - Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning (**IEEE TCSVT 2025**)[[paper](https://arxiv.org/pdf/2403.04140)][[Code](https://github.com/Biqing-Qi/TCSVT-Contrastive-Augmented-Graph2Graph-Memory-Interaction-for-Few-Shot-Continual-Learning)]
+- Prompt-Based Concept Learning for Few-Shot Class-Incremental Learning (**IEEE TCSVT 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10820843)]
+- Progressive Learning Strategy for Few-Shot Class-Incremental Learning (**IEEE TCYB 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10849630)]
+- Class-Aware Prompting for Federated Few-Shot Class-Incremental Learning (**IEEE TCSVT 2025**)[[paper](https://ieeexplore.ieee.org/document/10926539)]
+- Enhancing Few-Shot Class-Incremental Learning via Frozen Feature Augmentation (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/papers/Ling_Enhancing_Few-Shot_Class-Incremental_Learning_via_Frozen_Feature_Augmentation_CVPRW_2025_paper.pdf)][[Code](https://github.com/learninginvision/FAOrCo-ViT)]
+- Few-Shot Class-Incremental Learning via Asymmetric Supervised Contrastive Learning (**IEEE TCSVT 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10971425/)]
+- Federated Few-Shot Class-Incremental Learning (**ICLR 2025**)[[paper](https://openreview.net/pdf?id=ZiPoAlKf9Y)][[Code](
+ https://github.com/anwarmaxsum/FFSCIL)]
+- BFCP: Pursue Better Forward Compatibility Pretraining for Few-Shot Class-Incremental Learning (**IEEE TNNLS 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10934146/)]
 
 
 
@@ -28,6 +36,15 @@
 - CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning (**ECCV 2024**)[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06497.pdf)][[Code](https://github.com/JungHunOh/CLOSER_ECCV2024)]
 - Rethinking Few-shot Class-incremental Learning: Learning from Yourself (**ECCV 2024**)[[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07806.pdf)]
 - OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning (**CVPR 2024**)[[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ahmed_OrCo_Towards_Better_Generalization_via_Orthogonality_and_Contrast_for_Few-Shot_CVPR_2024_paper.html)]
+- Analogical learning-based few-shot class-incremental learning (**IEEE TCSVT 2024**)[[paper](https://ieeexplore.ieee.org/abstract/document/10382651/)]
+- Few-shot class incremental learning with attention-aware self-adaptive prompt (**ECCV 2024**)[[paper](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_1)]
+- Model attention expansion for few-shot class-incremental learning (**IEEE TIP 2024**)[[paper](https://ieeexplore.ieee.org/abstract/document/10620359/)]
+- Language-Inspired Relation Transfer for Few-Shot Class-Incremental Learning (**IEEE TPAMI 2024**)[[paper](https://ieeexplore.ieee.org/abstract/document/10746343/)]
+- An efficient memory module for graph few-shot class-incremental learning (**NeurIPS 2024**)[[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/eae7fa3e1584f46253c891bcb61846b8-Abstract-Conference.html)]
+- DyCR: a dynamic clustering and recovering network for few-shot class-incremental learning (**IEEE TNNLS 2024**)[[paper](https://ieeexplore.ieee.org/abstract/document/10531293/)][[Code](https://github.com/zichengpan/DyCR)]
+- Brain-inspired fast-and slow-update prompt tuning for few-shot class-incremental learning (**IEEE TNNLS 2024**)[[paper](https://ieeexplore.ieee.org/abstract/document/10682795/)][[Code](https://github.com/qihangran/FSPT-FSCIL)]
+- M2sd: Multiple mixing self-distillation for few-shot class-incremental learning (**AAAI 2024**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28129)]
+- NTK-Guided Few-Shot Class Incremental Learning (**IEEE TIP 2024**)[[paper](https://ieeexplore.ieee.org/abstract/document/10721322/)]
 
 
 
@@ -40,6 +57,10 @@
 - GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task (**CVPR23**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.html)]
 - Learning With Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning (**CVPR 2023**)[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Learning_With_Fantasy_Semantic-Aware_Virtual_Contrastive_Constraint_for_Few-Shot_Class-Incremental_CVPR_2023_paper.html)]
 - Few-Shot Class-Incremental Learning via Training-Free Prototype Calibration (**NeurIPS 2023**)[[paper](https://arxiv.org/abs/2312.05229)] [[Code](https://github.com/wangkiw/TEEN)]
+- Multimodal parameter-efficient few-shot class incremental learning (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/DAlessandro_Multimodal_Parameter-Efficient_Few-Shot_Class_Incremental_Learning_ICCVW_2023_paper.pdf)][[Code](https://github.com/neuraptic/cpe-clip)]
+- Decision boundary optimization for few-shot class-incremental learning (**ICCV 2023**)[[paper](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/Guo_Decision_Boundary_Optimization_for_Few-Shot_Class-Incremental_Learning_ICCVW_2023_paper.pdf)]
+- Improved continually evolved classifiers for few-shot class-incremental learning (**IEEE TCSVT 2023**)[[paper](https://ieeexplore.ieee.org/abstract/document/10168925)]
+
 
 ### 2022
 - Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**IEEE TPAMI 2022**)[[paper](https://arxiv.org/abs/2203.17030)][[Code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
