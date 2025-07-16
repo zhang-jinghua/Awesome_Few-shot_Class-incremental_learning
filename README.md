@@ -16,6 +16,7 @@
 - Adaptive Decision Boundary for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34020)]
 - Few-Shot Audio-Visual Class-Incremental Learning with Temporal Prompting and Regularization (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33770)]
 - Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33729)]
+<<<<<<< HEAD
 - Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning (**IEEE TCSVT 2025**)[[paper](https://arxiv.org/pdf/2403.04140)][[Code](https://github.com/Biqing-Qi/TCSVT-Contrastive-Augmented-Graph2Graph-Memory-Interaction-for-Few-Shot-Continual-Learning)]
 - Prompt-Based Concept Learning for Few-Shot Class-Incremental Learning (**IEEE TCSVT 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10820843)]
 - Progressive Learning Strategy for Few-Shot Class-Incremental Learning (**IEEE TCYB 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10849630)]
@@ -25,6 +26,9 @@
 - Federated Few-Shot Class-Incremental Learning (**ICLR 2025**)[[paper](https://openreview.net/pdf?id=ZiPoAlKf9Y)][[Code](
  https://github.com/anwarmaxsum/FFSCIL)]
 - BFCP: Pursue Better Forward Compatibility Pretraining for Few-Shot Class-Incremental Learning (**IEEE TNNLS 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10934146/)]
+=======
+- Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning (**IEEE TCSVT 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10841449)][[Code](https://github.com/Biqing-Qi/TCSVT-Contrastive-Augmented-Graph2Graph-Memory-Interaction-for-Few-Shot-Continual-Learning)]
+>>>>>>> 9db7df39723de0a75136acd068c488ae7aa05c95
 
 
 
