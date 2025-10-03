@@ -18,15 +18,15 @@
 ### Each Session Performance on CIFAR100
 | Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   |
 |--------|-------|------|------|------|------|------|------|------|------|------|
-| [TOPIC](https://github.com/xyutao/fscil)        | CVPR 2020 | 64.10 | 55.88 | 47.07 | 45.16 | 40.11 | 36.38 | 33.96 | 31.55 | 29.37 |
-| [CEC](https://github.com/icoz69/CEC-CVPR2021)   | CVPR 2021 | 73.07 | 68.88 | 65.26 | 61.19 | 58.09 | 55.57 | 53.22 | 51.34 | 49.14 |
+| [TOPIC](https://github.com/xyutao/fscil)        |CVPR 2020| 64.10 | 55.88 | 47.07 | 45.16 | 40.11 | 36.38 | 33.96 | 31.55 | 29.37 |
+| [CEC](https://github.com/icoz69/CEC-CVPR2021)   |CVPR 2021| 73.07 | 68.88 | 65.26 | 61.19 | 58.09 | 55.57 | 53.22 | 51.34 | 49.14 |
 
 
 ### Each Session Performance on *mini*ImageNet
 | Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   |
 |--------|-------|------|------|------|------|------|------|------|------|------|
-| [TOPIC](https://github.com/xyutao/fscil)        | CVPR 2020 | 61.31 | 50.09 | 45.17 | 41.16 | 37.48 | 35.52 | 32.19 | 29.46 | 24.42 |
-| [CEC](https://github.com/icoz69/CEC-CVPR2021)   | CVPR 2021 | 72.00 | 66.83 | 62.97 | 59.43 | 56.70 | 53.73 | 51.19 | 49.24 | 47.63 |
+| [TOPIC](https://github.com/xyutao/fscil)        |CVPR 2020| 61.31 | 50.09 | 45.17 | 41.16 | 37.48 | 35.52 | 32.19 | 29.46 | 24.42 |
+| [CEC](https://github.com/icoz69/CEC-CVPR2021)   |CVPR 2021| 72.00 | 66.83 | 62.97 | 59.43 | 56.70 | 53.73 | 51.19 | 49.24 | 47.63 |
 ## Research Papers
 
 ### 2025
