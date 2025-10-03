@@ -7,8 +7,6 @@
 - A survey on few-shot class-incremental learning (**Neural Networks 2024**)[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023006019)]
 
 ## Performance Rank
-<div align="center">
-
 ### Each Session Performance on CUB200
 | Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   | S9   | S10  |
 |--------|-------|------|------|------|------|------|------|------|------|------|------|------|
