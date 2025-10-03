@@ -16,7 +16,7 @@
 - SEC-Prompt: SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html)]
 - Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Enhancing_Few-Shot_Class-Incremental_Learning_via_Training-Free_Bi-Level_Modality_Calibration_CVPR_2025_paper.html)]
 - Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_Attraction_Diminishing_and_Distributing_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html)]
-- Adaptive Decision Boundary for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34020)]
+- Adaptive Decision Boundary for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34020)][[Code](https://github.com/Yongzhang-Tan/ADBS)]
 - Few-Shot Audio-Visual Class-Incremental Learning with Temporal Prompting and Regularization (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33770)]
 - Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning (**AAAI 2025**)[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33729)]
 - Prompt-Based Concept Learning for Few-Shot Class-Incremental Learning (**IEEE TCSVT 2025**)[[paper](https://ieeexplore.ieee.org/abstract/document/10820843)]
