@@ -10,7 +10,7 @@
 
 ### 2025
 - PKI: Prior knowledge-infused neural network for few-shot class-incremental learning (**NN 2025**)[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006045?casa_token=5UieFLORy5IAAAAA:ltlRYFPGcPnZNovmLsmLOW_WgkfRSHmb1bRr1yNsqS1bwqmqvC8CWL-lixBnn3neIJu3ITvw)]
-- A prompt regularization approach to enhance few-shot class-incremental learning with Two-Stage Classifier (**NN 2025**)[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003326?casa_token=gm6X-aHr1PcAAAAA:9FBIDSIRLc8EsE7FUyS8UumP0UIQwRJnHByIuX5zcP4vhZ6FESFG_DQhJMUsquYuOGi9hW8P)]
+- A prompt regularization approach to enhance few-shot class-incremental learning with Two-Stage Classifier (**NN 2025**)[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003326?casa_token=gm6X-aHr1PcAAAAA:9FBIDSIRLc8EsE7FUyS8UumP0UIQwRJnHByIuX5zcP4vhZ6FESFG_DQhJMUsquYuOGi9hW8P)][[Code](https://github.com/gyzzzzzzzz/PrRe)]
 - You look from old classes: Towards accurate few shot class-incremental learning (**PR 2025**)[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325010131?casa_token=9wrVRoc4qwEAAAAA:EMAXun-aKpo-EMOMvJVd-jOj2pDr1HUKfoO4rLwdcUsY17gQYKFq071q7nN_bPxICv1O8vKV)]
 - Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Tripartite_Weight-Space_Ensemble_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html)]
 - SEC-Prompt: SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning (**CVPR 2025**)[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.html)]
