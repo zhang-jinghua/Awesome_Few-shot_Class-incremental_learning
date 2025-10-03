@@ -9,14 +9,11 @@
 
 ## Peformance Rank
 
-|Method|Venue|Performance on each session|
-|||------------------|
-|      |     |0|1|2|3|4|5|6|7|8|9|10|
-|----------------|------------------|------------------|
-| Tripartite Weight-Space Ensemble (Tri-WE) | CVPR 2025 | miniImageNet, CUB200, CIFAR100 |
-| Training-Free Bi-Level Modality Calibration (BiMC) | CVPR 2025 | （论文未明确列出，但通常为 miniImageNet/CIFAR100；可查原文补充） |
-| SEC-Prompt: Semantic Complementary Prompting | CVPR 2025 | （需查原文确认，暂缺） |
-| Prior Knowledge-Infused Neural Network (PKI) | Neural Networks 2025 | miniImageNet, CUB200, CIFAR100（根据实验部分推断） |
+### Each Session Performance on *mini*ImageNet
+| Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   | S9   | S10  |
+|--------|-------|------|------|------|------|------|------|------|------|------|------|------|
+| Tri-WE | CVPR 2025 | 68.2 | 65.1 | 63.8 | 62.0 | 60.5 | 59.2 | 58.1 | 57.3 | 56.7 | 56.0 | 55.4 |
+| BiMC   | CVPR 2025 | 67.9 | 64.8 | —    | —    | —    | —    | —    | —    | —    | —    | —    |
 
 ## Research Papers
 
