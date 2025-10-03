@@ -6,6 +6,14 @@
 - Few-shot Class-incremental Learning for Classification and Object Detection: A Survey (**IEEE TPMAI 2025**)[[paper](https://ieeexplore.ieee.org/document/10840313)]
 - A survey on few-shot class-incremental learning (**Neural Networks 2024**)[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023006019)]
 
+
+| 方法（Method） | 发表地方（Venue） | 数据集（Datasets） |
+|----------------|------------------|------------------|
+| Tripartite Weight-Space Ensemble (Tri-WE) | CVPR 2025 | miniImageNet, CUB200, CIFAR100 |
+| Training-Free Bi-Level Modality Calibration (BiMC) | CVPR 2025 | （论文未明确列出，但通常为 miniImageNet/CIFAR100；可查原文补充） |
+| SEC-Prompt: Semantic Complementary Prompting | CVPR 2025 | （需查原文确认，暂缺） |
+| Prior Knowledge-Infused Neural Network (PKI) | Neural Networks 2025 | miniImageNet, CUB200, CIFAR100（根据实验部分推断） |
+
 ## Research Papers
 
 ### 2025
