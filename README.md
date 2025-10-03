@@ -7,7 +7,10 @@
 - A survey on few-shot class-incremental learning (**Neural Networks 2024**)[[paper](https://www.sciencedirect.com/science/article/pii/S0893608023006019)]
 
 
-| 方法（Method） | 发表地方（Venue） | 数据集（Datasets） |
+## Peformance Rank
+
+|Method|Venue|Performance on each session|
+|      |     |0|1|2|3|4|5|6|7|8|9|10|
 |----------------|------------------|------------------|
 | Tripartite Weight-Space Ensemble (Tri-WE) | CVPR 2025 | miniImageNet, CUB200, CIFAR100 |
 | Training-Free Bi-Level Modality Calibration (BiMC) | CVPR 2025 | （论文未明确列出，但通常为 miniImageNet/CIFAR100；可查原文补充） |
