@@ -12,21 +12,21 @@
 ### Each Session Performance on CUB200
 | Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   | S9   | S10  |
 |--------|-------|------|------|------|------|------|------|------|------|------|------|------|
-| [TOPIC](https://github.com/xyutao/fscil)        | CVPR 20 | 68.68 | 62.49 | 54.81 | 49.99 | 45.25 | 41.40 | 38.35 | 35.36 | 32.22 | 28.31 | 26.28 |
-| [CEC](https://github.com/icoz69/CEC-CVPR2021)   | CVPR 21 | 75.85 | 71.94 | 68.50 | 63.50 | 62.43 | 58.27 | 57.73 | 55.81 | 54.83 | 53.52 | 52.28 |
+| [TOPIC](https://github.com/xyutao/fscil)        | CVPR 2020 | 68.68 | 62.49 | 54.81 | 49.99 | 45.25 | 41.40 | 38.35 | 35.36 | 32.22 | 28.31 | 26.28 |
+| [CEC](https://github.com/icoz69/CEC-CVPR2021)   | CVPR 2021 | 75.85 | 71.94 | 68.50 | 63.50 | 62.43 | 58.27 | 57.73 | 55.81 | 54.83 | 53.52 | 52.28 |
 
 ### Each Session Performance on CIFAR100
 | Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   |
 |--------|-------|------|------|------|------|------|------|------|------|------|
-| [TOPIC](https://github.com/xyutao/fscil)        |CVPR 20| 64.10 | 55.88 | 47.07 | 45.16 | 40.11 | 36.38 | 33.96 | 31.55 | 29.37 |
-| [CEC](https://github.com/icoz69/CEC-CVPR2021)   |CVPR 21| 73.07 | 68.88 | 65.26 | 61.19 | 58.09 | 55.57 | 53.22 | 51.34 | 49.14 |
+| [TOPIC](https://github.com/xyutao/fscil)        |CVPR 2020| 64.10 | 55.88 | 47.07 | 45.16 | 40.11 | 36.38 | 33.96 | 31.55 | 29.37 |
+| [CEC](https://github.com/icoz69/CEC-CVPR2021)   |CVPR 2021| 73.07 | 68.88 | 65.26 | 61.19 | 58.09 | 55.57 | 53.22 | 51.34 | 49.14 |
 
 
 ### Each Session Performance on *mini*ImageNet
 | Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   |
 |--------|-------|------|------|------|------|------|------|------|------|------|
-| [TOPIC](https://github.com/xyutao/fscil)        |CVPR 20| 61.31 | 50.09 | 45.17 | 41.16 | 37.48 | 35.52 | 32.19 | 29.46 | 24.42 |
-| [CEC](https://github.com/icoz69/CEC-CVPR2021)   |CVPR 21| 72.00 | 66.83 | 62.97 | 59.43 | 56.70 | 53.73 | 51.19 | 49.24 | 47.63 |
+| [TOPIC](https://github.com/xyutao/fscil)        |CVPR 2020| 61.31 | 50.09 | 45.17 | 41.16 | 37.48 | 35.52 | 32.19 | 29.46 | 24.42 |
+| [CEC](https://github.com/icoz69/CEC-CVPR2021)   |CVPR 2021| 72.00 | 66.83 | 62.97 | 59.43 | 56.70 | 53.73 | 51.19 | 49.24 | 47.63 |
 ## Research Papers
 
 ### 2025
