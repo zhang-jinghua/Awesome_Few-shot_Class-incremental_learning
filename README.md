@@ -10,21 +10,23 @@
 ### Each Session Performance on CUB200
 | Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   | S9   | S10  |
 |--------|-------|------|------|------|------|------|------|------|------|------|------|------|
-| [TOPIC](https://github.com/xyutao/fscil)      | CVPR 2020 | 68.68 | 62.49 | 54.81 | 49.99 | 45.25 | 41.40 | 38.35 | 35.36 | 32.22 | 28.31 | 26.28 |
-| [CEC](https://github.com/icoz69/CEC-CVPR2021) | CVPR 2021 | 75.85 | 71.94 | 68.50 | 63.50 | 62.43 | 58.27 | 57.73 | 55.81 | 54.83 | 53.52 | 52.28 |
+| [TOPIC](https://github.com/xyutao/fscil)           | CVPR 2020 | 68.68 | 62.49 | 54.81 | 49.99 | 45.25 | 41.40 | 38.35 | 35.36 | 32.22 | 28.31 | 26.28 |
+| [CEC](https://github.com/icoz69/CEC-CVPR2021)      | CVPR 2021 | 75.85 | 71.94 | 68.50 | 63.50 | 62.43 | 58.27 | 57.73 | 55.81 | 54.83 | 53.52 | 52.28 |
+| [LIMIT](https://github.com/zhoudw-zdw/TPAMI-Limit) | TPAMI 2022| 75.89 | 73.55 | 71.99 | 68.14 | 67.42 | 63.61 | 62.40 | 61.35 | 59.91 | 58.66 | 57.41 |
 
 ### Each Session Performance on CIFAR100
 | Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   |
 |--------|-------|------|------|------|------|------|------|------|------|------|
-| [TOPIC](https://github.com/xyutao/fscil)      | CVPR 2020 | 64.10 | 55.88 | 47.07 | 45.16 | 40.11 | 36.38 | 33.96 | 31.55 | 29.37 |
-| [CEC](https://github.com/icoz69/CEC-CVPR2021) | CVPR 2021 | 73.07 | 68.88 | 65.26 | 61.19 | 58.09 | 55.57 | 53.22 | 51.34 | 49.14 |
+| [TOPIC](https://github.com/xyutao/fscil)           | CVPR 2020 | 64.10 | 55.88 | 47.07 | 45.16 | 40.11 | 36.38 | 33.96 | 31.55 | 29.37 |
+| [CEC](https://github.com/icoz69/CEC-CVPR2021)      | CVPR 2021 | 73.07 | 68.88 | 65.26 | 61.19 | 58.09 | 55.57 | 53.22 | 51.34 | 49.14 |
+| [LIMIT](https://github.com/zhoudw-zdw/TPAMI-Limit) | TPAMI 2022| 73.81 | 72.09 | 67.87 | 63.89 | 60.70 | 57.77 | 55.67 | 53.52 | 51.23 |
 
 ### Each Session Performance on *mini*ImageNet
 | Method | Venue | S0   | S1   | S2   | S3   | S4   | S5   | S6   | S7   | S8   |
 |--------|-------|------|------|------|------|------|------|------|------|------|
-| [TOPIC](https://github.com/xyutao/fscil)      | CVPR 2020 | 61.31 | 50.09 | 45.17 | 41.16 | 37.48 | 35.52 | 32.19 | 29.46 | 24.42 |
-| [CEC](https://github.com/icoz69/CEC-CVPR2021) | CVPR 2021 | 72.00 | 66.83 | 62.97 | 59.43 | 56.70 | 53.73 | 51.19 | 49.24 | 47.63 |
-
+| [TOPIC](https://github.com/xyutao/fscil)           | CVPR 2020 | 61.31 | 50.09 | 45.17 | 41.16 | 37.48 | 35.52 | 32.19 | 29.46 | 24.42 |
+| [CEC](https://github.com/icoz69/CEC-CVPR2021)      | CVPR 2021 | 72.00 | 66.83 | 62.97 | 59.43 | 56.70 | 53.73 | 51.19 | 49.24 | 47.63 |
+| [LIMIT](https://github.com/zhoudw-zdw/TPAMI-Limit) | TPAMI 2022| 72.32 | 68.47 | 64.30 | 60.78 | 57.95 | 55.07 | 52.70 | 50.72 | 49.19 |
 </div>
 ## Research Papers
 
@@ -99,7 +101,7 @@
 - Constrained Few-shot Class-incremental Learning (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)]
 
 ### 2021
-- Learning adaptive classifiers synthesis for generalized few-shot learning(**IJCV 2021**) [[paper](https://arxiv.org/pdf/1906.02944)] [[code](https://github.com/Sha-Lab/aCASTLE)]
+- Learning adaptive classifiers synthesis for generalized few-shot learning(**IJCV 2021**) [[arXiv](https://arxiv.org/pdf/1906.02944)] [[code](https://github.com/Sha-Lab/aCASTLE)]
 - MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning(**IEEE TPAMI 2021**) [[paper](https://arxiv.org/abs/2006.15524)]
 - Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting(**ICCV 2021**) [[paper](https://arxiv.org/abs/2108.08165)]
 - Synthesized Feature Based Few-Shot Class-Incremental Learning on a Mixture of Subspaces(**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.html)]
