@@ -88,7 +88,7 @@
 
 
 ### 2022
-- Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**IEEE TPAMI 2022**)[[paper](https://arxiv.org/abs/2203.17030)][[Code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
+- Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks(**IEEE TPAMI 2022**)[[paper](https://ieeexplore.ieee.org/abstract/document/9864267)][[arXiv](https://arxiv.org/abs/2203.17030)][[Code](https://github.com/zhoudw-zdw/TPAMI-Limit)]
 - Subspace Regularizers for Few-Shot Class Incremental Learning (**ICLR 2022**) [[paper](https://openreview.net/forum?id=boJy41J-tnQ)]
 - Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay (**ECCV 2022**) [[paper](https://arxiv.org/abs/2207.11213?context=cs)]
 - S3C: Self-Supervised Stochastic Classifiers for Few-Shot Class-Incremental Learning (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850427.pdf)]
