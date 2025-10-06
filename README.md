@@ -27,7 +27,9 @@
 | [TOPIC](https://github.com/xyutao/fscil)           | CVPR 2020 | 61.31 | 50.09 | 45.17 | 41.16 | 37.48 | 35.52 | 32.19 | 29.46 | 24.42 |
 | [CEC](https://github.com/icoz69/CEC-CVPR2021)      | CVPR 2021 | 72.00 | 66.83 | 62.97 | 59.43 | 56.70 | 53.73 | 51.19 | 49.24 | 47.63 |
 | [LIMIT](https://github.com/zhoudw-zdw/TPAMI-Limit) | TPAMI 2022| 72.32 | 68.47 | 64.30 | 60.78 | 57.95 | 55.07 | 52.70 | 50.72 | 49.19 |
-</div>
+
+
+
 ## Research Papers
 
 ### 2025
