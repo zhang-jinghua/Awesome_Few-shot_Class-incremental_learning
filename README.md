@@ -103,7 +103,6 @@
 - Constrained Few-shot Class-incremental Learning (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf)]
 
 ### 2021
-- Learning adaptive classifiers synthesis for generalized few-shot learning(**IJCV 2021**) [[arXiv](https://arxiv.org/pdf/1906.02944)] [[code](https://github.com/Sha-Lab/aCASTLE)]
 - MgSvF: Multi-Grained Slow vs. Fast Framework for Few-Shot Class-Incremental Learning(**IEEE TPAMI 2021**) [[paper](https://arxiv.org/abs/2006.15524)]
 - Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting(**ICCV 2021**) [[paper](https://arxiv.org/abs/2108.08165)]
 - Synthesized Feature Based Few-Shot Class-Incremental Learning on a Mixture of Subspaces(**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cheraghian_Synthesized_Feature_Based_Few-Shot_Class-Incremental_Learning_on_a_Mixture_of_ICCV_2021_paper.html)]
