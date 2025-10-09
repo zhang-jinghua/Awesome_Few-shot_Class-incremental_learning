@@ -112,7 +112,7 @@
 - Self-Promoted Prototype Refinement for Few-Shot Class-Incremental Learning(**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_Self-Promoted_Prototype_Refinement_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.html)]
 - Semantic-Aware Knowledge Distillation for Few-Shot Class-Incremental Learning (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Cheraghian_Semantic-Aware_Knowledge_Distillation_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.html)]
 - Incremental few-shot learning via vector quantization in deep embedded space(**ICLR 2021**) [[paper](https://openreview.net/forum?id=3SV-ZePhnZM)]
-- Few-Shot Lifelong Learning(**AAAI 2021**) [[paper](https://arxiv.org/pdf/2103.00991.pdf)]
+- Few-Shot Lifelong Learning(**AAAI 2021**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16334)]
 
 ### 2020
 
