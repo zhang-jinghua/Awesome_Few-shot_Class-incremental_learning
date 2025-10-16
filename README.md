@@ -33,6 +33,7 @@
 ## Research Papers
 
 ### 2025
+- Proxy-Based Classification Boundary Alignment for Few-Shot Class-Incremental Learning (**IEEE TCSVT**)[[paper](https://ieeexplore.ieee.org/document/11192503)]
 - Class-Specific Knowledge-Guided Multimodal Prompt Tuning for Few-Shot Class-Incremental Learning (**IEEE TCSVT**)[[paper](https://ieeexplore.ieee.org/abstract/document/11121898)]
 - PKI: Prior knowledge-infused neural network for few-shot class-incremental learning (**NN 2025**)[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006045?casa_token=5UieFLORy5IAAAAA:ltlRYFPGcPnZNovmLsmLOW_WgkfRSHmb1bRr1yNsqS1bwqmqvC8CWL-lixBnn3neIJu3ITvw)]
 - A prompt regularization approach to enhance few-shot class-incremental learning with Two-Stage Classifier (**NN 2025**)[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025003326?casa_token=gm6X-aHr1PcAAAAA:9FBIDSIRLc8EsE7FUyS8UumP0UIQwRJnHByIuX5zcP4vhZ6FESFG_DQhJMUsquYuOGi9hW8P)][[code](https://github.com/gyzzzzzzzz/PrRe)]
